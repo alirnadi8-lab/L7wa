@@ -4,7 +4,7 @@ const app = express();
 const port = 3000;
 
 const tokens = [
-  "ODk1NzUxMDY3NjE3MzU3OTE0.GTZTiy.U5QbBnPjP-pJT0i41yCWZvO9IWGNaaiv2zmbC0",
+  "ODk1NzUxMDY3NjE3MzU3OTE0.GVilUZ.TRPp_xShJsPeMe-uBVNeavtUCSe2MhSOsCP4PM",
 ];
 
 const channelIds = [
